@@ -5,47 +5,47 @@
 	<description>Feed created by FiveFilters.org</description>
 	<link>https://www.botbenson.com/</link>
 	<generator>Feed Creator</generator>
-	<atom:link rel="self" href="http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.botbenson.com%2F&amp;item=.grid-item&amp;item_title=h2&amp;item_desc=h4&amp;item_image=img&amp;max=5&amp;order=document&amp;guid=0" />
-	<atom:link rel="related" title="Edit feed with Feed Creator" href="http://createfeed.fivefilters.org/index.php?url=https%3A%2F%2Fwww.botbenson.com%2F&amp;item=.grid-item&amp;item_title=h2&amp;item_desc=h4&amp;item_image=img&amp;max=5&amp;order=document&amp;guid=0"/>
+	<atom:link rel="self" href="http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.botbenson.com%2F&amp;item=.grid-item&amp;item_title=h2&amp;item_desc=h4&amp;item_image=img+%40data-src&amp;max=5&amp;order=document&amp;guid=0" />
+	<atom:link rel="related" title="Edit feed with Feed Creator" href="http://createfeed.fivefilters.org/index.php?url=https%3A%2F%2Fwww.botbenson.com%2F&amp;item=.grid-item&amp;item_title=h2&amp;item_desc=h4&amp;item_image=img+%40data-src&amp;max=5&amp;order=document&amp;guid=0"/>
 	<item>
 		<title>Unblock Wikipedia ile engelleri kaldırın!</title>
 		<link>https://www.botbenson.com/unblock-wikipedia-ile-engelleri-kaldirin/</link>
 		<description>Ülkemizde bilindiği üzere wikipedia sitesi bazı sebepler dolayısı ile kapalı. Birçok insan kapalı olmasına farklı çözümler deneyerek erişmeye çalışmaktadır.</description>
-		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<media:content url="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif&quot;&gt;&lt;/div&gt;&lt;p&gt;Ülkemizde bilindiği üzere wikipedia sitesi bazı sebepler dolayısı ile kapalı. Birçok insan kapalı olmasına farklı çözümler deneyerek erişmeye çalışmaktadır.</content:encoded>
+		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/images/wikipedia-673x452.png" />
+		<media:content url="https://cdn1.botbenson.com/images/wikipedia-673x452.png" />
+		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/images/wikipedia-673x452.png&quot;&gt;&lt;/div&gt;&lt;p&gt;Ülkemizde bilindiği üzere wikipedia sitesi bazı sebepler dolayısı ile kapalı. Birçok insan kapalı olmasına farklı çözümler deneyerek erişmeye çalışmaktadır.</content:encoded>
 	</item>
 	<item>
 		<title>Atatürk İlkeleri ve İnkılap Tarihi Uzaktan Eğitim 2. Sınav Soruları</title>
 		<link>https://www.botbenson.com/ataturk-ilkeleri-ve-inkilap-tarihi-uzaktan-egitim-2-sinav-sorulari/</link>
 		<description>Atatürk İlkeleri ve İnkılap Tarihi 2. Uzaktan Eğtitim Dersinin sınav sorularını yapmadan tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</description>
-		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<media:content url="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif&quot;&gt;&lt;/div&gt;&lt;p&gt;Atatürk İlkeleri ve İnkılap Tarihi 2. Uzaktan Eğtitim Dersinin sınav sorularını yapmadan tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</content:encoded>
+		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/images/test-sorular-2-683x452.jpg" />
+		<media:content url="https://cdn1.botbenson.com/images/test-sorular-2-683x452.jpg" />
+		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/images/test-sorular-2-683x452.jpg&quot;&gt;&lt;/div&gt;&lt;p&gt;Atatürk İlkeleri ve İnkılap Tarihi 2. Uzaktan Eğtitim Dersinin sınav sorularını yapmadan tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</content:encoded>
 	</item>
 	<item>
 		<title>Atatürk İlkeleri ve İnkılap Tarihi Uzaktan Eğitim 1. Sınav Soruları</title>
 		<link>https://www.botbenson.com/ataturk-ilkeleri-ve-inkilap-tarihi-uzaktan-egitim-1-sinav-sorulari/</link>
 		<description>Atatürk İlkeleri ve İnkılap Tarihi 1. Uzaktan Eğtitim Dersinin sınav sorularını yapmadan tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</description>
-		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<media:content url="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif&quot;&gt;&lt;/div&gt;&lt;p&gt;Atatürk İlkeleri ve İnkılap Tarihi 1. Uzaktan Eğtitim Dersinin sınav sorularını yapmadan tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</content:encoded>
+		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/images/test-sorular-1-678x452.jpg" />
+		<media:content url="https://cdn1.botbenson.com/images/test-sorular-1-678x452.jpg" />
+		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/images/test-sorular-1-678x452.jpg&quot;&gt;&lt;/div&gt;&lt;p&gt;Atatürk İlkeleri ve İnkılap Tarihi 1. Uzaktan Eğtitim Dersinin sınav sorularını yapmadan tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</content:encoded>
 	</item>
 	<item>
 		<title>Steam Otomatik Kart Düşürme Programı</title>
 		<link>https://www.botbenson.com/steam-otomatik-kart-dusurme-programi/</link>
 		<description>Idle master programı sizin envanterinizde kart düşürme özelliği olan bütün oyunları otomatik olarak taramaya başlar ve program 2 saatlik oyun oynama süresini doldurunca otomatik olarak kartları düşürmenize yardımcı olur.</description>
-		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<media:content url="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif&quot;&gt;&lt;/div&gt;&lt;p&gt;Idle master programı sizin envanterinizde kart düşürme özelliği olan bütün oyunları otomatik olarak taramaya başlar ve program 2 saatlik oyun oynama süresini doldurunca otomatik olarak kartları düşürmenize yardımcı olur.</content:encoded>
+		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/images/Steam-1-683x384.jpg" />
+		<media:content url="https://cdn1.botbenson.com/images/Steam-1-683x384.jpg" />
+		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/images/Steam-1-683x384.jpg&quot;&gt;&lt;/div&gt;&lt;p&gt;Idle master programı sizin envanterinizde kart düşürme özelliği olan bütün oyunları otomatik olarak taramaya başlar ve program 2 saatlik oyun oynama süresini doldurunca otomatik olarak kartları düşürmenize yardımcı olur.</content:encoded>
 	</item>
 	<item>
 		<title>İş Sağlığı ve Güvenliği Uzaktan Eğitim 2. Sınav Soruları</title>
 		<link>https://www.botbenson.com/is-sagligi-ve-guvenligi-sinav-sorulari-2/</link>
 		<description>İş Sağlığı ve Güvenliği 2. Uzaktan Eğtitim Dersinin Sınav Soruları sınav sorularını çözmeden tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</description>
-		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<media:content url="https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif" />
-		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/wp-content/themes/botbenson/assets/images/x.gif&quot;&gt;&lt;/div&gt;&lt;p&gt;İş Sağlığı ve Güvenliği 2. Uzaktan Eğtitim Dersinin Sınav Soruları sınav sorularını çözmeden tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</content:encoded>
+		<atom:link rel="enclosure" href="https://cdn1.botbenson.com/images/test-sorular-1-678x452.jpg" />
+		<media:content url="https://cdn1.botbenson.com/images/test-sorular-1-678x452.jpg" />
+		<content:encoded>&lt;div class=&quot;item-image&quot;&gt;&lt;img src=&quot;https://cdn1.botbenson.com/images/test-sorular-1-678x452.jpg&quot;&gt;&lt;/div&gt;&lt;p&gt;İş Sağlığı ve Güvenliği 2. Uzaktan Eğtitim Dersinin Sınav Soruları sınav sorularını çözmeden tekrar gözden geçirmenizi tavsiye ederiz. Cevaplar üzerinde bir yanlışlık var ise bunları yorum olarak bize yazabilirsiniz.</content:encoded>
 	</item>
 </channel>
 </rss>
